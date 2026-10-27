@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(~/.claude/scheduled-tasks/**)",
+      "Edit(~/.claude/scheduled-tasks/**)",
+      "Glob",
+      "Grep",
+      "ArtifactData",
+      "mcp__<GMAIL_ID>__search_threads",
+      "mcp__<GMAIL_ID>__get_thread",
+      "mcp__<GMAIL_ID>__get_message",
+      "mcp__<GMAIL_ID>__list_labels",
+      "mcp__<GMAIL_ID>__list_drafts",
+      "mcp__<GMAIL_ID>__get_draft",
+      "mcp__<GMAIL_ID>__create_draft",
+      "mcp__<GMAIL_ID>__update_draft",
+      "mcp__<GMAIL_ID>__send_message",
+      "mcp__<GMAIL_ID>__reply",
+      "mcp__<GMAIL_ID>__create_label",
+      "mcp__<GMAIL_ID>__label_message",
+      "mcp__<GMAIL_ID>__label_thread",
+      "mcp__<GMAIL_ID>__unlabel_message",
+      "mcp__<GMAIL_ID>__unlabel_thread",
+      "mcp__<GMAIL_ID>__update_message_labels",
+      "mcp__<CALENDAR_ID>__list_calendars",
+      "mcp__<CALENDAR_ID>__list_events",
+      "mcp__<CALENDAR_ID>__get_event",
+      "mcp__<CALENDAR_ID>__search_events",
+      "mcp__<CALENDAR_ID>__suggest_time",
+      "mcp__<CALENDAR_ID>__create_event",
+      "mcp__<CALENDAR_ID>__update_event"
+    ]
+  }
+}
